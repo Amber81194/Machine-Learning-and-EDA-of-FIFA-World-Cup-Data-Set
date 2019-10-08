@@ -40,10 +40,7 @@ It comprises of 3456 observation.
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| ipl_data.head | ![image.png](Images/head1.png) |
-| ipl_data.head | ![image.png](Images/head2.png) |
-| missing value | ![image.png](Images/miss.png) |
-| After replacing missing values | ![image.png](Images/fillmissingvalue.png) |
+| fifa_data.head | ![image.png](Images/fifa_head.png) |
 
 ### Analysis Result
 - Performance of team in the World Cup.
@@ -51,6 +48,7 @@ It comprises of 3456 observation.
 - Number of Goals Scored, Attempts taken by team to score a goal, Number of shoots which are On-Taget and Off-Target.
 - Number of free kicks, passes, saves done by a team.
 - Number of matches where Penalty Shoot Out was taken
+- Created graph for each analysis which is easy to undersatnd.
 - Created new columns: - "Winning Team" and "Won Team" based on "Man Of Match Column"
 - After EDA, I applied Logistic Regression to predict whether the team will Win.
 - Model Evaluation by Confusion Matrix and craeted Decision Tree of Data Set.
