@@ -1,5 +1,6 @@
-# Machine-Learning-and-EDA-of-FIFA-WorldCup-201
-![image.jpg](Images/FIFAWC2018.jpg)
+# Machine-Learning-and-EDA-of-FIFA-WorldCup-2018
+<img src="Images/FIFAWC2018.jpg" height="50%" width="50%">
+
 
 ## INTRODUCTION
 The dataset consist of the information about all the matches played between each teams in the FIFA World Cup 2018. Various variables are present in the dataset includes team, opponent team, ball possession, passes, free kicks, goal scored, corners, goals, 1st goal time etc.
